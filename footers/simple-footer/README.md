@@ -1,0 +1,1 @@
+This is a simple footer from Codeberry, What you can use for your webpage.
